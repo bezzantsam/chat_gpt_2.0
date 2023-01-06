@@ -1,5 +1,5 @@
 {
-  "name": "chat_gpt_2.0",
+  "name": "chat_gpt_2.0-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
